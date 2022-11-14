@@ -1,0 +1,8 @@
+En src/org/formacion/Problema.java encontrarás el código que 
+se ha mostrado en la presentación.
+
+Encontrarás las instrucciones del problema propuesto en:
+
+test_src/org/formacion/TestIntroduccion.java
+
+Suerte !
